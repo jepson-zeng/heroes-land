@@ -9,7 +9,7 @@ This is a reference implementation for [EIP-2535 Diamonds](https://github.com/et
 
 1. Clone this repo:
 ```console
-git clone https://github.com/jepson-zeng/heroes-land.git
+git clone git@github.com:mudgen/diamond-1-hardhat.git
 ```
 
 2. Install NPM packages:
