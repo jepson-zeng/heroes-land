@@ -42,7 +42,7 @@ Diamonds are a proxy pattern for Solidity development that allows a single gatew
 
 ```shell
 git clone https://github.com/jepson-zeng/heroes-land
-
+```
 ### Frontend 
 
 - `cd frontend`
