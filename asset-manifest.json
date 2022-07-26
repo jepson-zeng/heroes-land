@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jepson-zeng/heroes-land.git/static/css/main.cf597a2b.css",
+    "main.js": "/jepson-zeng/heroes-land.git/static/js/main.b883d9e8.js",
+    "static/js/787.951e893f.chunk.js": "/jepson-zeng/heroes-land.git/static/js/787.951e893f.chunk.js",
+    "index.html": "/jepson-zeng/heroes-land.git/index.html",
+    "main.cf597a2b.css.map": "/jepson-zeng/heroes-land.git/static/css/main.cf597a2b.css.map",
+    "main.b883d9e8.js.map": "/jepson-zeng/heroes-land.git/static/js/main.b883d9e8.js.map",
+    "787.951e893f.chunk.js.map": "/jepson-zeng/heroes-land.git/static/js/787.951e893f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf597a2b.css",
+    "static/js/main.b883d9e8.js"
+  ]
+}
