@@ -1,7 +1,5 @@
 # Fullstack Dynamic NFT Mini Game  Using Diamond Standard
 
-### [Play On ](http://diamond-dapp.vercel.app/)  http://diamond-dapp.vercel.app/
-
 ## Project Description 
 
 ### Fullstack Dynamic NFT Mini Game  Using Diamond Standard 
