@@ -28,7 +28,7 @@
 - `frontend`  Project's React frontend.
 - `backend/test`  Tests for Smart Contracts.
 
-## How Does Diamond Standard EIP 2535 Work ❓
+## How Does Diamond Standard EIP 2535 Work 
 
 ### EIP-2535 Diamond Standard 
 
@@ -97,7 +97,6 @@ We can use the localhost frontend to interact with the smart contract on Mumbai 
   [45, 30, 35, 25, 15, 20, 60, 55, 50, 45, 80, 75, 70, 65, 100, 90],
   ["Duelists", "Duelists", "Duelists", "Duelists", "Duelists", "Duelists", "Initiators", "Initiators", "Initiators", "Initiators", "Controllers", "Controllers", "Controllers", "Controllers", "Sentinels", "Sentinels"],
   "THANOS",
-  "https://raw.githubusercontent.com/ShivaShanmuganathan/diamond-nft-game/main/Thanos.webp",
   100000,
   150]);`
 - Change `["Jett", "Phoenix", "Neon", ...]` to the character names you want
@@ -110,7 +109,6 @@ We can use the localhost frontend to interact with the smart contract on Mumbai 
 - Change `[1000, 1250, 1100, ...]` to the maxHealth you want for the Heroes
 - Change `[45, 30, 35, ...]` to the attackDamage you want for the Heroes
 - Change `THANOS` to the name of your Boss
-- Change `https://raw.githubusercontent.com/ShivaShanmuganathan/diamond-nft-game/main/Thanos.webp"` to the image url of your Boss
 - Change `100000` to edit the Boss Health
 - Change `150` to edit the Boss Attack Damage
 
